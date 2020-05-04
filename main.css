@@ -1,4 +1,5 @@
-/* based on from Stanford CS231n course notes https://cs231n.github.io/convolutional-networks/ */
+/* Base */
+/* from Stanford CS231n course notes https://cs231n.github.io/convolutional-networks/ */
 /* ----------------------------------------------------------*/
 
 * {
@@ -340,5 +341,3 @@ a:visited { color: #205caa; }
 }
 
 .post pre.terminal code { background-color: #333; }
-
-
