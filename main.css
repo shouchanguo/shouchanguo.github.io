@@ -35,6 +35,8 @@ a:visited { color: #205caa; }
   zoom: 1;
 }
 
+.bigger { font-size:120%; }
+
 
 /* Layout Styles */
 /* ----------------------------------------------------------*/
@@ -266,8 +268,6 @@ a:visited { color: #205caa; }
 .post-content { margin: 0 0 30px; }
 
 .post-content > * { margin: 20px 0; }
-
-.post-content .bigger { font-size:120%; }
 
 
 .post-content h1,
