@@ -104,7 +104,7 @@ a:visited { color: #205caa; }
 }
 
 .post-content p {
-  text-align: justify;
+  text-align: left;
 }
 
 .kw {
@@ -120,7 +120,7 @@ a:visited { color: #205caa; }
 /* Site header */
 
 .title-wrap {
-  text-align: center;
+  text-align: left;
 }
 
 .site-header {
